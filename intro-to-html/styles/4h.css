@@ -1,0 +1,19 @@
+.back-button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 6px;
+    padding-right: 6px;
+    margin-right: 10px;
+}
+
+.next-button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 6px;
+    padding-right: 6px;
+    margin-left: 10px;
+}
+
+.link {
+    margin-right: 8px;
+}
